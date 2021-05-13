@@ -1,0 +1,17 @@
+.education-content {
+  display: flex;
+  justify-content: space-between;
+}
+
+.education-content .education-item {
+  display: flex;
+  padding: 10px;
+  border-radius: 10px;
+  justify-content: flex-start;
+  border: 2px solid goldenrod;
+}
+
+.education-item .education-details {
+  height: 100%;
+  border-left: 2px solid goldenrod;
+}
